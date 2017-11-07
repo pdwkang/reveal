@@ -29,6 +29,9 @@ The SQL Server Express files are in the repository under "database\SQL Server Ex
 
 The SQL Server CE file is in the repository as "database\SQL Server CE\Titles.sdf".
 
+### PostgreSQL
+The connect string for the PostgreSQL database is: postgresql://readonlyuser:turner@dev-challenge.cwkyo7wxjtij.us-east-1.rds.amazonaws.com:5432/dev_challenge
+
 
 ## Code
 Unless otherwise directed, you have two options for building a website, .Net and node.js.  **There is a very good chance we will request you to use a specific framework, so double check the email we sent you to ensure you pick the correct one.**
