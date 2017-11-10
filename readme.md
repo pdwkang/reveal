@@ -30,7 +30,7 @@ The SQL Server Express files are in the repository under "database\SQL Server Ex
 The SQL Server CE file is in the repository as "database\SQL Server CE\Titles.sdf".
 
 ### PostgreSQL
-The connect string for the PostgreSQL database is: postgres://zyubezwb:GH28IzwmbXj_Esb03GyyW03zDZqyMXoK@pellefant.db.elephantsql.com:5432/zyubezwb
+The connect string for the PostgreSQL database is: postgres://readonly_user:turner@aws-us-east-1-portal.27.dblayer.com:25183/titles
 
 
 ## Code
